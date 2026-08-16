@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Gabin 🌱
 
-<!--
-**dev-gabin/dev-gabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in **Embedded Systems, Computer Vision, and Edge AI**.
 
-Here are some ideas to get you started:
+Currently learning **C, embedded programming, and computer vision**, while building small projects and strengthening my programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* **Languages:** C, Python
+* **AI / Vision:** YOLO, OpenCV
+* **Tools:** Git, GitHub, VS Code
+
+## 📌 Projects
+
+### 🍳 Smart Kitchen Assistant
+
+A computer vision-based smart kitchen assistant with **gesture recognition and smoke detection**.
+
+* Hand gesture-based interface
+* Smoke detection using YOLO
+* Multi-timer functionality for cooking
+* Developed as a team project
+
+### 💻 C Programming
+
+A repository for practicing C programming fundamentals.
+
+* Bit operations
+* Pointers and arrays
+* Memory handling
+* Functions and basic algorithms
+
+### 🧩 Coding Test
+
+A repository for practicing coding problems on Programmers 
+
+##📚 Currently Learning
+
+* C Programming
+* Embedded Systems
+* STM32
+* UART / I2C / GPIO
+* Linux
+* Computer Vision
+* Edge AI
