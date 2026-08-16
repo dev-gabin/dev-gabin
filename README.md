@@ -34,7 +34,7 @@ A repository for practicing C programming fundamentals.
 
 A repository for practicing coding problems on Programmers 
 
-##📚 Currently Learning
+## 📚 Currently Learning
 
 * C Programming
 * Embedded Systems
