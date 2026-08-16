@@ -21,18 +21,13 @@ A computer vision-based smart kitchen assistant with **gesture recognition and s
 * Multi-timer functionality for cooking
 * Developed as a team project
 
-### 💻 C Programming
-
-A repository for practicing C programming fundamentals.
-
-* Bit operations
-* Pointers and arrays
-* Memory handling
-* Functions and basic algorithms
-
+## 📖 Practice & Study
 ### 🧩 Coding Test
 
 A repository for practicing coding problems on Programmers 
+
+### 💻 C Programming Practice
+A repository for practicing C programming fundamentals.
 
 ## 📚 Currently Learning
 
