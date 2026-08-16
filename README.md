@@ -22,7 +22,7 @@ A computer vision-based smart kitchen assistant with **gesture recognition and s
 * Developed as a team project
 
 ## 📖 Practice & Study
-### 🧩 Coding Test
+### 🧩 Programmers Coding Test
 
 A repository for practicing coding problems on Programmers 
 
