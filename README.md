@@ -2,7 +2,7 @@
 
 I'm interested in **Embedded Systems, Computer Vision, and Edge AI**.
 
-Currently learning **C, embedded programming, and computer vision**, while building small projects and strengthening my programming fundamentals.
+Currently learning **C, embedded programming, and computer vision** while strengthening my programming fundamentals.
 
 ## 🔧 Tech Stack
 
@@ -14,26 +14,20 @@ Currently learning **C, embedded programming, and computer vision**, while build
 
 ### 🍳 [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
 
-A computer vision-based smart kitchen assistant with **gesture recognition and smoke detection**.
-
-* Hand gesture-based interface
-* Smoke detection using YOLO
-* Multi-timer functionality for cooking
-* Developed as a team project
+A computer vision-based smart kitchen assistant with **smoke detection, gesture control, voice-based timer guidance, and multi-timer functionality**.
 
 ## 📖 Practice & Study
+
 ### 🧩 [Coding Test](https://github.com/dev-gabin/programmers-coding-test)
 
-A repository for practicing coding problems on Programmers 
+Coding problem practice on Programmers.
+
 ### 💻 [C Programming Practice](https://github.com/dev-gabin/c_basic)
-A repository for practicing C programming fundamentals.
+
+Hands-on practice for C programming fundamentals.
 
 ## 📚 Currently Learning
 
-* C Programming
-* Embedded Systems
-* STM32
-* UART / I2C / GPIO
-* Linux
-* Computer Vision
-* Edge AI
+* **Embedded:** STM32, UART, I2C, GPIO
+* **Programming:** C, Linux
+* **AI / Vision:** Computer Vision, Edge AI
