@@ -12,7 +12,7 @@ Currently learning **C, embedded programming, and computer vision**, while build
 
 ## 📌 Projects
 
-### 🍳 Smart Kitchen Assistant
+### 🍳 [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
 
 A computer vision-based smart kitchen assistant with **gesture recognition and smoke detection**.
 
@@ -22,11 +22,10 @@ A computer vision-based smart kitchen assistant with **gesture recognition and s
 * Developed as a team project
 
 ## 📖 Practice & Study
-### 🧩 Programmers Coding Test
+### 🧩 [Coding Test](https://github.com/dev-gabin/programmers-coding-test)
 
 A repository for practicing coding problems on Programmers 
-
-### 💻 C Programming Practice
+### 💻 [C Programming Practice](https://github.com/dev-gabin/c_basic)
 A repository for practicing C programming fundamentals.
 
 ## 📚 Currently Learning
