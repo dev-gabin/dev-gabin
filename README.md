@@ -3,6 +3,13 @@
 I'm interested in **Embedded Systems, Computer Vision, and Edge AI.**
 
 Currently learning **C, STM32, Embedded Linux, and Computer Vision**.
+
+## 📫 Contact
+
+- GitHub: [dev-gabin](https://github.com/dev-gabin)
+- Notion: [Portfolio](https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc?source=copy_link)
+- <a href="mailto:tgb5808@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+
 ## 🔧 Tech Stack
 
 * **Languages:** C, Python
@@ -31,8 +38,3 @@ Hands-on practice for C programming fundamentals.
 * **Programming:** C, Linux
 * **AI / Vision:** Computer Vision, Edge AI
 
-## 📫 Contact
-
-- GitHub: [dev-gabin](https://github.com/dev-gabin)
-- Notion: [Portfolio](노션주소)
-- <a href="mailto:tgb5808@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
