@@ -1,40 +1,136 @@
-# Hi, I'm Gabin 🌱
+<p align="center">
+  <img src="./banner.png" width="75%">
+</p>
 
-I'm interested in **Embedded Systems, Computer Vision, and Edge AI.**
+<br>
 
-Currently learning **C, STM32, Embedded Linux, and Computer Vision**.
+<h2 align="center">👋 About Me</h2>
 
-## 📫 Contact
+<p align="center">
+  I'm interested in <b>Embedded Systems, Computer Vision, and Edge AI.</b>
+  <br>
+  Currently learning C, embedded programming, and computer vision
+  <br>
+  while strengthening my programming fundamentals.
+</p>
 
-- GitHub: [dev-gabin](https://github.com/dev-gabin)
-- Notion: [Portfolio](https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc?source=copy_link)
-- <a href="mailto:tgb5808@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<br>
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)][notion]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
+
+</p>
+
+<br>
+
+---
 
 ## 🔧 Tech Stack
 
-* **Languages:** C, Python
-* **AI / Vision:** YOLO, OpenCV
-* **Tools:** Git, GitHub, VS Code
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+</p>
+
+<br>
+
+---
 
 ## 📌 Projects
 
-### 🍳 [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
+### 🍳 [Smart Kitchen Assistant][smart-kitchen]
 
-A computer vision-based smart kitchen assistant with **smoke detection, gesture control, voice-based timer guidance, and multi-timer functionality**.
+Computer vision-based smart kitchen assistant with  
+smoke detection, gesture control, voice-based timer guidance,  
+and multi-timer functionality.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+</p>
+
+<br>
+
+---
 
 ## 📖 Practice & Study
 
-### 🧩 [Coding Test](https://github.com/dev-gabin/programmers-coding-test)
+<table>
+<tr>
 
-Coding problem practice on Programmers.
+<td width="33%" valign="top">
 
-### 💻 [C Programming Practice](https://github.com/dev-gabin/c_basic)
+### 💻 Coding Test
 
-Hands-on practice for C programming fundamentals.
+Coding problem practice  
+on Programmers.
 
-## 📚 Currently Learning
+🔗 [Repository][coding-test]
 
-* **Embedded:** STM32, UART, I2C, GPIO
-* **Programming:** C, Linux
-* **AI / Vision:** Computer Vision, Edge AI
+</td>
 
+<td width="33%" valign="top">
+
+### 🔵 C Programming Practice
+
+Hands-on practice for  
+C programming fundamentals.
+
+🔗 [Repository][c-practice]
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🟢 STM32 Practice
+
+Practice with STM32 peripherals  
+and embedded concepts.
+
+🔗 [Repository][stm32]
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🌱 Currently Learning
+
+| Field | Learning |
+| --- | --- |
+| 🔌 **Embedded** | STM32 · UART · I2C · GPIO |
+| 💻 **Programming** | C · Linux |
+| 🧠 **AI / Vision** | Computer Vision · Edge AI |
+
+
+<!-- 링크 주소는 여기에서 한 번씩만 수정 -->
+
+[email]: mailto:tgb5808@gmail.com
+[notion]:https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc
+[github]: https://github.com/dev-gabin
+
+[smart-kitchen]:https://github.com/dev-gabin/smart-kitchen-assistant
+[coding-test]: https://github.com/dev-gabin/programmers-coding-test
+[c-practice]: https://github.com/dev-gabin/c_basic
+[stm32]: https://github.com/dev-gabin/STM32
