@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="./banner.png" width="100%">
 </p>
@@ -133,4 +133,3 @@ and embedded concepts.
 [coding-test]: https://github.com/dev-gabin/programmers-coding-test
 [c-practice]: https://github.com/dev-gabin/c_basic
 [stm32]: https://github.com/dev-gabin/STM32
-```
