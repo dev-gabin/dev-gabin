@@ -1,7 +1,7 @@
+```md
 <p align="center">
   <img src="./banner.png" width="100%">
 </p>
-<br>
 
 <h2 align="center">👋 About Me</h2>
 
@@ -18,11 +18,15 @@
 <h2 align="center">📫 Contact</h2>
 
 <p align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)][notion]
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
-
+  <a href="mailto:tgb5808@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  <a href="https://github.com/dev-gabin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 <br>
@@ -123,13 +127,10 @@ and embedded concepts.
 | 🧠 **AI / Vision** | Computer Vision · Edge AI |
 
 
-<!-- 링크 주소는 여기에서 한 번씩만 수정 -->
+<!-- Repository Links -->
 
-[email]: mailto:tgb5808@gmail.com
-[notion]:https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc
-[github]: https://github.com/dev-gabin
-
-[smart-kitchen]:https://github.com/dev-gabin/smart-kitchen-assistant
+[smart-kitchen]: https://github.com/dev-gabin/smart-kitchen-assistant
 [coding-test]: https://github.com/dev-gabin/programmers-coding-test
 [c-practice]: https://github.com/dev-gabin/c_basic
 [stm32]: https://github.com/dev-gabin/STM32
+```
