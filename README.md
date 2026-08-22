@@ -1,9 +1,8 @@
 # Hi, I'm Gabin 🌱
 
-I'm interested in **Embedded Systems, Computer Vision, and Edge AI**.
+I'm interested in **Embedded Systems, Computer Vision, and Edge AI.**
 
-Currently learning **C, embedded programming, and computer vision** while strengthening my programming fundamentals.
-
+Currently learning **C, STM32, Embedded Linux, and Computer Vision**.
 ## 🔧 Tech Stack
 
 * **Languages:** C, Python
@@ -31,3 +30,9 @@ Hands-on practice for C programming fundamentals.
 * **Embedded:** STM32, UART, I2C, GPIO
 * **Programming:** C, Linux
 * **AI / Vision:** Computer Vision, Edge AI
+
+## 📫 Contact
+
+<a href="mailto:이메일주소">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
