@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <br>
 
 <h2 align="center">👋 About Me</h2>
