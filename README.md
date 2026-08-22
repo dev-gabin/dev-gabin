@@ -35,4 +35,4 @@ Hands-on practice for C programming fundamentals.
 
 - GitHub: [dev-gabin](https://github.com/dev-gabin)
 - Notion: [Portfolio](노션주소)
-- <a href="mailto:이메일주소"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+- <a href="mailto:tgb5808@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
