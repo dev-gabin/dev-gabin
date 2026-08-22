@@ -32,7 +32,8 @@ Hands-on practice for C programming fundamentals.
 * **AI / Vision:** Computer Vision, Edge AI
 
 ## 📫 Contact
-
-<a href="mailto:이메일주소">
+ GitHub: [dev-gabin](https://github.com/dev-gabin)
+ Notion: [Portfolio](https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc)
+<a href="mailto:tgb5808@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
