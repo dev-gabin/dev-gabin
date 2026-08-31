@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./banner3.png" width="100%">
 </p>
@@ -57,16 +56,27 @@
 ## 📌 Projects
 
 ### 🍳 [Smart Kitchen Assistant][smart-kitchen]
-
-Computer vision-based smart kitchen assistant with  
-smoke detection, gesture control, voice-based timer guidance,  
-and multi-timer functionality.
-
+**Team Project**  
+**My Role:** UI Development · Model Training  
+Computer vision-based smart kitchen assistant for smoke detection and gesture control.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 </p>
+
+<br>
+
+### 🚗 [TERRA 자율주행 로버][terra-rover]
+**Team Project**  
+**My Role:** MPU6050 & VL53L0X Sensor Integration  
+STM32-based autonomous rover with sensor-driven driving and obstacle avoidance.
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+</p>
+
+🔗 [Team Repository][terra-rover]
 
 <br>
 
@@ -129,6 +139,7 @@ and embedded concepts.
 <!-- Repository Links -->
 
 [smart-kitchen]: https://github.com/dev-gabin/smart-kitchen-assistant
+[terra-rover]: https://github.com/gayoung228/group-project
 [coding-test]: https://github.com/dev-gabin/programmers-coding-test
 [c-practice]: https://github.com/dev-gabin/c_basic
 [stm32]: https://github.com/dev-gabin/STM32
