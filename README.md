@@ -69,9 +69,8 @@ Computer vision-based smart kitchen assistant for smoke detection and gesture co
 
 ### 🚗 [TERRA 자율주행 로버][terra-rover]
 **Team Project**  
-**My Role:** MPU6050 & VL53L0X Sensor Integration  
+**My Role:** MPU6050 & VL53L0X Sensor Development  
 STM32-based autonomous rover with sensor-driven driving and obstacle avoidance.
-<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
 </p>
