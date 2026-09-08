@@ -75,7 +75,6 @@ STM32-based autonomous rover with sensor-driven driving and obstacle avoidance.
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
 </p>
 
-🔗 [Team Repository][terra-rover]
 
 <br>
 
