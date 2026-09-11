@@ -75,7 +75,7 @@ for smoke detection and gesture control.
 ### 🚗 [TERRA 자율주행 로버][terra-rover]
 
 **Team Project**  
-**My Role:** HC-SR04 Ultrasonic Sensor Development  
+**My Role:** MPU6050 & VL53L0X Sensor Development
 
 STM32-based autonomous rover  
 with sensor-driven driving and obstacle avoidance.
