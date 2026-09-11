@@ -7,9 +7,9 @@
 <p align="center">
   I'm interested in <b>Embedded Systems, Computer Vision, and Edge AI.</b>
   <br>
-  Currently learning C, embedded programming, and computer vision
+  Currently learning C, Linux, embedded programming,
   <br>
-  while strengthening my programming fundamentals.
+  and computer vision while strengthening my programming fundamentals.
 </p>
 
 <br>
@@ -28,6 +28,7 @@
   </a>
 </p>
 
+<br>
 
 ---
 
@@ -56,9 +57,13 @@
 ## 📌 Projects
 
 ### 🍳 [Smart Kitchen Assistant][smart-kitchen]
+
 **Team Project**  
 **My Role:** UI Development · Model Training  
-Computer vision-based smart kitchen assistant for smoke detection and gesture control.
+
+Computer vision-based smart kitchen assistant  
+for smoke detection and gesture control.
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square">
@@ -68,13 +73,17 @@ Computer vision-based smart kitchen assistant for smoke detection and gesture co
 <br>
 
 ### 🚗 [TERRA 자율주행 로버][terra-rover]
+
 **Team Project**  
-**My Role:** MPU6050 & VL53L0X Sensor Development  
-STM32-based autonomous rover with sensor-driven driving and obstacle avoidance.
+**My Role:** HC-SR04 Ultrasonic Sensor Development  
+
+STM32-based autonomous rover  
+with sensor-driven driving and obstacle avoidance.
+
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
 </p>
-
 
 <br>
 
@@ -85,7 +94,7 @@ STM32-based autonomous rover with sensor-driven driving and obstacle avoidance.
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Coding Test
 
@@ -96,18 +105,22 @@ on Programmers.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔵 C Programming Practice
 
-Hands-on practice for  
+Hands-on practice with  
 C programming fundamentals.
 
 🔗 [Repository][c-practice]
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🟢 STM32 Practice
 
@@ -115,6 +128,17 @@ Practice with STM32 peripherals
 and embedded concepts.
 
 🔗 [Repository][stm32]
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐧 Linux Practice
+
+Practice with Ubuntu, GCC,  
+file I/O, and networking.
+
+🔗 [Repository][linux]
 
 </td>
 
@@ -129,10 +153,14 @@ and embedded concepts.
 
 | Field | Learning |
 | --- | --- |
-| 🔌 **Embedded** | STM32 · UART · I2C · GPIO |
-| 💻 **Programming** | C · Linux |
+| 🔌 **Embedded** | STM32 · UART · I2C · GPIO · Sensors |
+| 💻 **Programming** | C · Linux · System Programming |
+| 🌐 **Networking** | TCP/IP · Socket Programming |
 | 🧠 **AI / Vision** | Computer Vision · Edge AI |
 
+<br>
+
+---
 
 <!-- Repository Links -->
 
@@ -141,3 +169,4 @@ and embedded concepts.
 [coding-test]: https://github.com/dev-gabin/programmers-coding-test
 [c-practice]: https://github.com/dev-gabin/c_basic
 [stm32]: https://github.com/dev-gabin/STM32
+[linux]: https://github.com/dev-gabin/linux-practice
