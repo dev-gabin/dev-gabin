@@ -157,13 +157,13 @@ C programming practice and fundamentals.
 
 <td width="25%" valign="top">
 
-<h4 align="center">Algorithms</h4>
+<h4 align="center">Coding Test</h4>
 
 <p align="center">
-  <sub>PROBLEM SOLVING</sub>
+  <sub>PRACTICE</sub>
 </p>
 
-Algorithm and coding-test practice.
+Coding-test practice and problem solving.
 
 <p align="center">
   <a href="https://github.com/dev-gabin/programmers-coding-test">
