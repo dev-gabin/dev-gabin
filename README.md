@@ -49,25 +49,25 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Smart Kitchen Assistant</h3>
+<h3 align="center">Retrace</h3>
 
 <p align="center">
-  <sub>COMPUTER VISION · AIoT</sub>
+  <sub>COMPUTER VISION · EMBEDDED · IoT</sub>
 </p>
 
-영상 인식을 기반으로 연기 감지, 제스처 제어,  
-음성 타이머 기능을 결합한 스마트 주방 시스템입니다.
+카메라가 물건의 마지막 목격 정보를 기록하고,  
+웹·레이저·스마트 서랍·LCD·휴대폰 알림으로 탐색을 돕는 스마트 공간 블랙박스 시스템입니다.
 
 <br>
 
 **Tech**
 
-`Python` `YOLO` `OpenCV` `Computer Vision` `AIoT`
+`Jetson Nano` `Python` `YOLO` `OpenCV` `STM32` `ESP32` `MariaDB`
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/dev-gabin/smart-kitchen-assistant">
+  <a href="https://github.com/dev-gabin/Retrace-Project">
     <b>View Repository →</b>
   </a>
 </p>
