@@ -178,6 +178,14 @@ Coding-test practice and problem solving.
 
 <br>
 
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev_gabin&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<br>
+
 <p align="center">
   <sub>Code. Learn. Build. &nbsp; — &nbsp; Keep curious.</sub>
 </p>
