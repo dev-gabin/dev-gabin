@@ -32,6 +32,16 @@
 
 <br>
 
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-gabin&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<br>
+
+<br>
+
 <h2 align="center">Projects</h2>
 
 <table align="center" width="90%">
@@ -175,14 +185,6 @@ Coding-test practice and problem solving.
 
 </tr>
 </table>
-
-<br>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev_gabin&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <br>
 
