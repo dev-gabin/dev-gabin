@@ -33,8 +33,9 @@
 <br>
 
 <h2 align="center">GitHub Stats</h2>
-  <img src="https://github-stats-extended.vercel.app/api?username=dev-gabin&show_icons=true&theme=radical" alt="GitHub Stats" />
+
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=dev-gabin&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 </p>
 
