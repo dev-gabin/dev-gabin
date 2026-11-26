@@ -21,7 +21,6 @@
 </p>
 
 ---
-
 ## 📂 Featured Projects
 
 <table width="100%">
@@ -31,7 +30,7 @@
   </tr>
   <tr>
     <td>
-      🔍 <strong><a href="https://github.com/dev-gabin/Retrace-Project">Retrace</a></strong><br>
+      🔍 <strong><a href="https://github.com/dev-gabin/Project-Retrace">Retrace</a></strong><br>
       <sub>2026.10.06 – 2026.10.13 · 2인 팀</sub>
     </td>
     <td>
@@ -41,7 +40,17 @@
   </tr>
   <tr>
     <td>
-      🍳 <strong><a href="https://github.com/dev-gabin/smart-kitchen-assistant">Smart Kitchen Assistant</a></strong><br>
+      🚗 <strong><a href="https://github.com/gayoung228/group-project">TERRA 자율주행 로버</a></strong><br>
+      <sub>2026.08.21 – 2026.08.30 · 4인 팀</sub>
+    </td>
+    <td>
+      <strong>STM32 기반 2WD 자율주행 로버</strong><br>
+      MPU6050으로 진행 방향을 보정하고, VL53L0X 거리 센서로 장애물을 감지·회피
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🍳 <strong><a href="https://github.com/dev-gabin/Project-smart-kitchen-assistant">Smart Kitchen Assistant</a></strong><br>
       <sub>2026.07.29 – 2026.08.03 · 2인 팀</sub>
     </td>
     <td>
@@ -49,16 +58,8 @@
       실시간 연기 감지 및 제스처·음성 인식
     </td>
   </tr>
-  <tr>
-    <td>
-      🚗 <strong><a href="https://github.com/gayoung228/2026ESWContest_free_marsyaho">RC Car Project</a></strong>
-    </td>
-    <td>
-      <strong>STM32 기반 임베디드 주행 제어 시스템</strong><br>
-      모터·센서 연동 및 RC Car 주행 제어
-    </td>
-  </tr>
 </table>
+
 
 ---
 
