@@ -1,4 +1,4 @@
-# GA_BIN | AI & Computer Vision
+# GA_BIN 
 
 
 **AI Vision · On-Device AI · Embedded Systems**
