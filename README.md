@@ -14,54 +14,40 @@ AI Vision 분야의 개발자를 목표로 공부하고 있습니다.
 
 > 2026.10.06 – 2026.10.13 | 2인 팀 프로젝트
 
-YOLO 기반 물건 인식 및 마지막 목격 정보(Last Seen) 기록을 통한 물건 탐색·외출 준비 지원 시스템
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+온디바이스 AI 기반 물건의 마지막 목격 정보(Last Seen) 기록 및 위치 안내를 위한 스마트 공간 블랙박스
 
 ### 02. [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
 
 > 2026.07.29 – 2026.08.03 | 2인 팀 프로젝트
 
-YOLOv8 기반 실시간 연기 감지 및 제스처·음성 인식을 활용한 비접촉 조리 지원 시스템
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
+AI 기반 실시간 연기 감지 및 제스처·음성 인식을 통한 Hands-Free 조리 지원 시스템
 
 ### 03. [RC Car Project](https://github.com/gayoung228/2026ESWContest_free_marsyaho)
 
-STM32 기반 모터 및 센서 연동을 활용한 임베디드 RC Car 제어 시스템
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-555555?style=flat-square)
+STM32 기반 모터·센서 연동 및 RC Car 주행 제어 시스템
 
 ---
 
-## 🛠️ Technical Experience
+## 🛠️ Tech Stack
 
-프로젝트 및 실습 과정에서 사용한 기술입니다.
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming** | Python, C |
-| **AI / Computer Vision** | YOLO, OpenCV |
-| **AI Model** | Object Detection, Pose Estimation, Fine-tuning |
-| **Embedded Systems** | Jetson Nano, STM32, ESP32 |
-| **Communication** | TCP/IP, UART, Bluetooth, Wi-Fi, HTTP, I2C |
-| **Database** | MariaDB |
-| **Web** | HTML, CSS, JavaScript |
-| **Environment** | Linux, Windows |
-| **Development Tools** | Git, GitHub, VS Code, STM32CubeMX |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D6?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square)
 
 ---
 
