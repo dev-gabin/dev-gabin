@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc">
-    <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio"/>
+    <img src="https://img.shields.io/badge/NOTION-PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
   </a>
 </p>
 
@@ -24,11 +24,41 @@
 
 ## 📂 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| 🔍 **[Retrace](https://github.com/dev-gabin/Retrace-Project)** <br> <sub>2026.10.06 – 2026.10.13 · 2인 팀</sub> | **온디바이스 AI 기반 스마트 공간 블랙박스** <br> 물건의 마지막 목격 정보(Last Seen) 기록 및 위치 안내 |
-| 🍳 **[Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)** <br> <sub>2026.07.29 – 2026.08.03 · 2인 팀</sub> | **AI 기반 Hands-Free 조리 지원 시스템** <br> 실시간 연기 감지 및 제스처·음성 인식 |
-| 🚗 **[RC Car Project](https://github.com/gayoung228/2026ESWContest_free_marsyaho)** | **STM32 기반 임베디드 주행 제어 시스템** <br> 모터·센서 연동 및 RC Car 주행 제어 |
+<table width="100%">
+  <tr>
+    <th width="38%" align="left">Project</th>
+    <th width="62%" align="left">Description</th>
+  </tr>
+  <tr>
+    <td>
+      🔍 <strong><a href="https://github.com/dev-gabin/Retrace-Project">Retrace</a></strong><br>
+      <sub>2026.10.06 – 2026.10.13 · 2인 팀</sub>
+    </td>
+    <td>
+      <strong>온디바이스 AI 기반 스마트 공간 블랙박스</strong><br>
+      물건의 마지막 목격 정보(Last Seen) 기록 및 위치 안내
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🍳 <strong><a href="https://github.com/dev-gabin/smart-kitchen-assistant">Smart Kitchen Assistant</a></strong><br>
+      <sub>2026.07.29 – 2026.08.03 · 2인 팀</sub>
+    </td>
+    <td>
+      <strong>AI 기반 Hands-Free 조리 지원 시스템</strong><br>
+      실시간 연기 감지 및 제스처·음성 인식
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🚗 <strong><a href="https://github.com/gayoung228/2026ESWContest_free_marsyaho">RC Car Project</a></strong>
+    </td>
+    <td>
+      <strong>STM32 기반 임베디드 주행 제어 시스템</strong><br>
+      모터·센서 연동 및 RC Car 주행 제어
+    </td>
+  </tr>
+</table>
 
 ---
 
