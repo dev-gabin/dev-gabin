@@ -1,7 +1,6 @@
-# GA_BIN 
+# GA_BIN
 
-
-**AI Vision · On-Device AI · Embedded Systems**
+### AI Vision · On-Device AI · Embedded Systems
 
 AI Vision 분야의 개발자를 목표로 공부하고 있습니다.
 객체 탐지, 영상 처리, 온디바이스 AI 및 임베디드 시스템 관련
@@ -13,15 +12,9 @@ AI Vision 분야의 개발자를 목표로 공부하고 있습니다.
 
 ### 01. [Retrace](https://github.com/dev-gabin/Retrace-Project)
 
-**온디바이스 AI 기반 스마트 공간 블랙박스**
-
 > 2026.10.06 – 2026.10.13 | 2인 팀 프로젝트
 
-카메라 기반 물건 탐색 및 외출 준비 지원 시스템입니다.
-
-- **AI Vision** — YOLO 기반 객체 탐지 및 사용자 정의 클래스 추가 학습
-- **On-Device AI** — Jetson Nano 기반 추론 및 마지막 목격 정보(Last Seen) 기록
-- **System Integration** — 레이저 위치 안내, 스마트 서랍, 외출 준비물 확인 및 알림 연동
+YOLO 기반 물건 인식 및 마지막 목격 정보(Last Seen) 기록을 통한 물건 탐색·외출 준비 지원 시스템
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -32,21 +25,11 @@ AI Vision 분야의 개발자를 목표로 공부하고 있습니다.
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-[**View Project Repository →**](https://github.com/dev-gabin/Retrace-Project)
-
----
-
 ### 02. [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
-
-**온디바이스 AI 기반 실시간 연기 감지 및 Hands-Free 레시피 제어 시스템**
 
 > 2026.07.29 – 2026.08.03 | 2인 팀 프로젝트
 
-주방 안전과 비접촉 조리 환경을 위한 AI 시스템입니다.
-
-- **Object Detection** — YOLOv8 연기 감지 모델 파인튜닝 및 실시간 경보
-- **Pose Estimation** — 상체 관절 추적 및 제스처 기반 레시피·영상 제어
-- **Voice Recognition** — 음성 인식 기반 타이머 잔여 시간 안내
+YOLOv8 기반 실시간 연기 감지 및 제스처·음성 인식을 활용한 비접촉 조리 지원 시스템
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
@@ -54,24 +37,13 @@ AI Vision 분야의 개발자를 목표로 공부하고 있습니다.
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 
-[**View Project Repository →**](https://github.com/dev-gabin/smart-kitchen-assistant)
-
----
-
 ### 03. [RC Car Project](https://github.com/gayoung228/2026ESWContest_free_marsyaho)
 
-**STM32 기반 임베디드 RC Car 제어 시스템**
-
-마이크로컨트롤러 기반 하드웨어 제어 프로젝트입니다.
-
-- **Embedded Programming** — STM32 기반 C 프로그래밍
-- **Hardware Control** — 모터 제어 및 센서 연동
+STM32 기반 모터 및 센서 연동을 활용한 임베디드 RC Car 제어 시스템
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![Embedded](https://img.shields.io/badge/Embedded_Systems-555555?style=flat-square)
-
-[**View Project Repository →**](https://github.com/gayoung228/2026ESWContest_free_marsyaho)
 
 ---
 
