@@ -1,30 +1,34 @@
-# GA_BIN
+<h1 align="center">GA_BIN</h1>
 
-### AI Vision · On-Device AI · Embedded Systems
+<h3 align="center">
+  AI Vision · On-Device AI · Embedded Systems
+</h3>
 
-AI Vision 분야의 개발자를 목표로 공부하고 있습니다.
-객체 탐지, 영상 처리, 온디바이스 AI 및 임베디드 시스템 관련
-프로젝트 경험과 학습 내용을 기록하는 공간입니다.
+<p align="center">
+  AI Vision 분야의 개발자를 목표로 공부하고 있습니다.<br>
+  객체 탐지, 영상 처리, 온디바이스 AI 및 임베디드 시스템 관련<br>
+  프로젝트 경험과 학습 내용을 기록하는 공간입니다.
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔍 01. [Retrace](https://github.com/dev-gabin/Retrace-Project)
+### 🔍 [Retrace](https://github.com/dev-gabin/Retrace-Project)
 
-> 2026.10.06 – 2026.10.13 | 2인 팀 프로젝트
+<sub>2026.10.06 – 2026.10.13 · 2인 팀 프로젝트</sub>
 
-온디바이스 AI 기반 물건의 마지막 목격 정보(Last Seen) 기록 및 위치 안내를 위한 스마트 공간 블랙박스
+온디바이스 AI 기반 **물건의 마지막 목격 정보(Last Seen) 기록 및 위치 안내**를 위한 스마트 공간 블랙박스
 
-### 🍳 02. [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
+### 🍳 [Smart Kitchen Assistant](https://github.com/dev-gabin/smart-kitchen-assistant)
 
-> 2026.07.29 – 2026.08.03 | 2인 팀 프로젝트
+<sub>2026.07.29 – 2026.08.03 · 2인 팀 프로젝트</sub>
 
-AI 기반 실시간 연기 감지 및 제스처·음성 인식을 통한 Hands-Free 조리 지원 시스템
+AI 기반 **실시간 연기 감지 및 제스처·음성 인식**을 통한 Hands-Free 조리 지원 시스템
 
-### 🚗 03. [RC Car Project](https://github.com/gayoung228/2026ESWContest_free_marsyaho)
+### 🚗 [RC Car Project](https://github.com/gayoung228/2026ESWContest_free_marsyaho)
 
-STM32 기반 모터·센서 연동 및 RC Car 주행 제어 시스템
+STM32 기반 **모터·센서 연동 및 RC Car 주행 제어 시스템**
 
 ---
 
