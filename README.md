@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
   AI Vision 분야의 개발자를 목표로 공부하고 있습니다.<br>
   객체 탐지, 영상 처리, 온디바이스 AI 및 임베디드 시스템 관련<br>
   프로젝트 경험과 학습 내용을 기록하는 공간입니다.
