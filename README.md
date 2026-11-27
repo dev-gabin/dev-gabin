@@ -115,10 +115,9 @@
 | [Practice-c_basic](https://github.com/dev-gabin/Practice-c_basic) | C 언어 및 프로그래밍 기초 |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-gabin&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub activity stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabin&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-gabin&amp;show_icons=true&amp;hide_border=true&amp;title_color=175CD3&amp;icon_color=175CD3&amp;text_color=24292F&amp;bg_color=F6F8FA" width="54%" alt="GitHub 활동 통계" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabin&amp;layout=compact&amp;hide_border=true&amp;title_color=175CD3&amp;text_color=24292F&amp;bg_color=F6F8FA" width="42%" alt="GitHub 저장소의 언어 비율" />
 </p>
