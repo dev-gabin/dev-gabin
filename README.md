@@ -10,17 +10,24 @@
 
 <p align="center">
   <a href="https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc">
-    <img src="https://img.shields.io/badge/NOTION-PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
+    <img src="https://img.shields.io/badge/NOTION-PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  AI Vision 분야의 개발자를 목표로 공부하고 있습니다.<br>
-  객체 탐지, 영상 처리, 온디바이스 AI 및 임베디드 시스템 관련<br>
-  프로젝트 경험과 학습 내용을 기록하는 공간입니다.
+  AI Vision 개발자를 목표로 공부하고 있습니다.<br>
+  객체 탐지, 영상 처리, 온디바이스 AI, 임베디드 시스템 프로젝트와 학습 내용을 기록합니다.
+</p>
+
+<hr>
+
+<p align="center">
+  🎓 <strong>서울기술교육센터 · 온디바이스 AI SW 개발 1기</strong> (2026.07 ~ 2027.02)<br>
+  법학과 · 학사 졸업
 </p>
 
 ---
+
 ## 📂 Featured Projects
 
 <table width="100%">
@@ -31,7 +38,7 @@
   <tr>
     <td>
       🔍 <strong><a href="https://github.com/dev-gabin/Project-Retrace">Retrace</a></strong><br>
-      <sub>2026.10.06 – 2026.10.13 · 2인 팀</sub>
+      <sub>2026.10.06 – 2026.10.12 · 2인 팀</sub>
     </td>
     <td>
       <strong>온디바이스 AI 기반 스마트 공간 블랙박스</strong><br>
@@ -59,7 +66,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -94,16 +100,6 @@
 
 ---
 
-## 🎓 Education
-
-**서울기술교육센터 · 온디바이스 AI SW 개발 1기(2026.07 ~ 2027.02)**
-
-온디바이스 AI, 컴퓨터 비전, 임베디드 시스템 및 IoT 교육과정
-
-**법학과 · 학사 졸업**
-
----
-
 ## 📖 Currently Learning
 
 `AI Engineering` · `Computer Vision & Deep Learning` · `On-Device AI` · `C/C++`
@@ -123,6 +119,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-gabin&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabin&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-gabin&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub activity stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabin&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used languages" />
 </p>
